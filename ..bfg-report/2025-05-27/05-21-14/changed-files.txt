@@ -1,0 +1,1 @@
+8a94aedc1fc4a86636e39709ef82d51a0a4fb5ef a2ebb81dc2155630b0b661ef6c502f778244b2f9 bfg-replacements.txt
