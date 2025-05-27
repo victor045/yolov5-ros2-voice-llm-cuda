@@ -55,6 +55,10 @@ export OPENAI_API_KEY="sk-..."
 ### 3. Run the ROS2 node
 Assuming your ROS2 workspace is built:
 ```bash
+ros2 run ros2_v4l2_camera v4l2_camera_node
+```
+in another shell:
+```bash
 ros2 run yolov5_ros yolov5_node
 ```
 
